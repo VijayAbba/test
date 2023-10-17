@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Given two files `app.js` and a database file `covid19IndiaPortal.db` consisting of three tables `state`, `district` and `user`.",
+  "main": "index.js",
+  "scripts": {
+    "git": "git add *"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
